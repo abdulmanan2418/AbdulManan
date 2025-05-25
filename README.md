@@ -42,8 +42,8 @@ Welcome to my GitHub! I'm an **Azure Data Engineer** with **2.7 years of experie
 
 ## 🔍 Let’s Connect
 
-- **LinkedIn:**  [Sivaprasad V](https://www.linkedin.com/in/abdul-manan-a2950a308)
-- **GitHub:** [Sivaprasad V](https://github.com/abdulmanan2418)
+- **LinkedIn:**  [Abdul Manan](https://www.linkedin.com/in/abdul-manan-a2950a308)
+- **GitHub:** [Abdul Manan](https://github.com/abdulmanan2418)
 
 ---
 
