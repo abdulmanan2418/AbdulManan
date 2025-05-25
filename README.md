@@ -1,4 +1,4 @@
-# Hi there! I'm Sivaprasad V 👋
+# Hi there! I'm Abdul Manan 👋
 
 Welcome to my GitHub! I'm an **Azure Data Engineer** with **2.7 years of experience** currently working at **Infosys**. My expertise lies in crafting robust data solutions, optimizing data pipelines, and empowering businesses with actionable insights through the power of cloud computing and big data technologies.
 
@@ -42,8 +42,8 @@ Welcome to my GitHub! I'm an **Azure Data Engineer** with **2.7 years of experie
 
 ## 🔍 Let’s Connect
 
-- **LinkedIn:**  [Sivaprasad V](https://www.linkedin.com/in/sivaprasad-v-213011213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub:** [Sivaprasad V](https://github.com/Sivaprasad-V?tab=repositories)
+- **LinkedIn:**  [Sivaprasad V](https://www.linkedin.com/in/abdul-manan-a2950a308)
+- **GitHub:** [Sivaprasad V](https://github.com/abdulmanan2418)
 
 ---
 
